@@ -1,0 +1,13 @@
+#brick {
+    width: 40px;
+    height: 140px;
+    background: black;
+    position: relative;
+    cursor: pointer;
+  }
+  
+  #path {
+    outline: 9px solid black;
+    width: 680px;
+    height: 160px;
+  }
